@@ -1,2 +1,2 @@
-- Sử dụng git theo centralized workflow:  đơn thuần là để lấy code 
-- Sử dụng git theo feature branch workflow: là dùng để tạo nhánh (creale branch) --> Switch/Checkout thành tên nhánh vừa tạo
+- Sử dụng git theo centralized workflow:  đơn thuần là để lấy code và đẩy thẳng lên master
+- Sử dụng git theo feature branch workflow: là dùng để tạo nhánh (creale branch) --> Switch/Checkout thành tên nhánh vừa tạo lưu tạm trên git để các thành viên khác có thể xem các chức năng đã tạo và lấy lấy code của nhánh bạn về
